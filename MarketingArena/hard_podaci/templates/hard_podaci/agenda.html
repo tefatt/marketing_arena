@@ -1,0 +1,23 @@
+﻿{% include 'hard_podaci/base.html' %}
+
+{%block body %}
+{% if agenda %}
+
+{{agenda.sadrzaj}}
+
+{% else %}
+    <h3>U izradnji</h3>
+{% endif %}
+{% endblock %}
+<style>
+
+         body{
+    background: grey url("../../static/hard_podaci/images/15.jpg");
+    background-size: cover;   
+     background-repeat: no-repeat;
+    background-position: top center;
+    background-attachment: fixed;
+    width: 100%;
+}
+
+</style>

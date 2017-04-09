@@ -1,0 +1,125 @@
+﻿body{
+    background: grey url("images/14.jpg");
+    background-size: cover;   
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-attachment: fixed;
+    width: 100%;
+}
+.active.navbar-brand{
+      padding: 0px;
+      text-size-adjust:200%;
+      font-family: 'Satisfy', cursive;
+      border:none;
+     }
+
+.active{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-bottom: 3px solid #333;
+    font-weight:bold;
+    border-bottom-color:#935347;
+}
+
+.navbar-brand {
+  padding: 0px;
+  text-size-adjust:200%;
+  font-family: 'Satisfy', cursive;
+}
+.navbar-brand>img {
+  height: 100%;
+  padding: 15px;
+  width: auto;
+}
+.example5 .navbar-brand {
+  display: flex;
+  align-items: center;
+  color:#935347;
+
+}
+.navbar-nav>li:hover{
+    border-radius:9px 9px 9px 9px;
+    -moz-border-radius:9px 9px 9px 9px;
+    -webkit-border-radius:9px 9px 9px 9px;
+    background-color:#935347;
+    opacity:1;
+    }
+.navbar .nav > li > a {
+    text-shadow: 0 -1px 0 rgba(1, 1, 1, 0.25);
+    color:#c7ad88;
+
+}
+.example5 .navbar-brand>img {
+  padding: 4px 11px;
+}
+.navbar-alignit .navbar-header {
+    -webkit-transform-style: preserve-3d;
+     transform-style: preserve-3d;
+    height: 50px;
+    -moz-box-shadow:0.7px 1px 1px #777777;
+    -webkit-box-shadow:0.7px 1px 1px #777777;
+    box-shadow:0.7px 1px 1px #777777; 
+    border-radius:0 0 9px 9px;
+    -moz-border-radius:0 0 9px 9px;
+    -webkit-border-radius:0 0 9px 9px;
+}
+.navbar-alignit .navbar-brand {
+	top: 50%;
+	display: block;
+	position: relative;
+	height: auto;
+	transform: translate(0,-50%);
+	margin-right: 15px;
+    margin-left: 15px;
+    text-size-adjust:150%;
+}
+.navbar-nav>li>.dropdown-menu {
+	z-index: 9999;
+}
+body {
+  font-family: "Lato";
+}
+.gallery-box{
+    overflow: hidden;
+    padding: 80px 0px;
+}
+.img-single{
+    width: 100px;
+    height: 60px;
+    float:left;
+    margin: 5px 5px;
+    position:relative;
+}
+
+.img-single img{
+    width: 100%;
+    height: 100%;
+    position:absolute;
+    top:0px;
+    right:0px;
+    left:0px;
+    bottom:0px;
+    transition: all 200ms ease-in-out;
+    -webkit-transition: all 200ms ease-in-out;
+    -o-transition: all 200ms ease-in-out;
+}
+
+.img-single:hover{
+    z-index:1000;
+}
+
+.img-single img:hover{
+    width: 110%;
+    height: 110%;
+    position:absolute;
+    top:-10px;
+    left:-10px;
+}
+
+.legendary{
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.fieldWrapper{
+    color:aquamarine;
+}

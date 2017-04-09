@@ -1,0 +1,20 @@
+﻿{% include 'hard_podaci/base.html' %}
+
+{% block title %} Kontakt Forma{% endblock %}
+
+{% block content %}
+<h1>Kontakt Forma</h1>
+<form role="form" action="" method="post">
+    {% csrf_token %}
+    {{ forma.as_p  }}
+    <button type="submit" class="btn btn-danger">Pošalji</button>
+</form>
+{% endblock %}
+<style>
+
+         body{
+    background: grey url("../../static/hard_podaci/images/15.jpg");
+    background-size: cover;   
+}
+
+</style>

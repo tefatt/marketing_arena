@@ -1,0 +1,15 @@
+C:\Users\Teufik\documents\visual studio 2015\Projects\MarketingArena\MarketingArena\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\Teufik\documents\visual studio 2015\Projects\MarketingArena\MarketingArena\obj\Debug\attach_server.py
+C:\Users\Teufik\documents\visual studio 2015\Projects\MarketingArena\MarketingArena\obj\Debug\visualstudio_py_debugger.py
+C:\Users\Teufik\documents\visual studio 2015\Projects\MarketingArena\MarketingArena\obj\Debug\visualstudio_py_repl.py
+C:\Users\Teufik\documents\visual studio 2015\Projects\MarketingArena\MarketingArena\obj\Debug\visualstudio_py_util.py
+C:\Users\Teufik\documents\visual studio 2015\Projects\MarketingArena\MarketingArena\obj\Debug\__init__.py
+C:\Users\Teufik\documents\visual studio 2015\Projects\MarketingArena\MarketingArena\obj\Debug\__main__.py
+C:\Users\Teufik\documents\visual studio 2015\Projects\MarketingArena\MarketingArena\bin\AzureSetup.cfg
+C:\Users\Teufik\documents\visual studio 2015\Projects\MarketingArena\MarketingArena\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\Teufik\documents\visual studio 2015\Projects\MarketingArena\MarketingArena\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\Teufik\documents\visual studio 2015\Projects\MarketingArena\MarketingArena\bin\wfastcgi.py
+C:\Users\Teufik\documents\visual studio 2015\Projects\MarketingArena\MarketingArena\obj\Debug\deployment-updated-pyvenv.cfg
+C:\Users\Teufik\documents\visual studio 2015\Projects\MarketingArena\MarketingArena\ptvs_virtualenv_proxy.py
+C:\Users\Teufik\documents\visual studio 2015\Projects\MarketingArena\MarketingArena\obj\Debug\web.config
+C:\Users\Teufik\documents\visual studio 2015\Projects\MarketingArena\MarketingArena\obj\Debug\web.debug.config
